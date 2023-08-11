@@ -265,3 +265,26 @@ footer{
     margin-top: 135px;
 
 }
+
+/* pagos en lineas */
+#pagosenlineas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135px;
+
+}
+/* billeteras de cuero */
+#billeterasdecuero .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135px;
+
+}
+
+/* billeteras de cuero y lona */
+#billeterasdecueroylona .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135px;
+
+}
